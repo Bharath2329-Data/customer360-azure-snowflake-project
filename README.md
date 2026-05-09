@@ -1,0 +1,1 @@
+# customer360-azure-snowflake-project
