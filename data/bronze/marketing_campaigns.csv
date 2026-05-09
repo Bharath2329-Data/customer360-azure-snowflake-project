@@ -1,0 +1,601 @@
+campaign_id,customer_id,campaign_name,channel,response,conversion,campaign_date
+1,81,Holiday Offer,Social Media,Opened,No,2025-10-05
+2,23,Summer Sale,Email,Opened,No,2025-06-13
+3,47,Loyalty Rewards,Email,Ignored,No,2025-12-30
+4,77,Loyalty Rewards,SMS,Ignored,No,2026-03-24
+5,56,Flash Sale,Email,Ignored,No,2026-01-21
+6,34,Holiday Offer,Email,Clicked,No,2025-05-09
+7,33,Holiday Offer,SMS,Ignored,No,2025-11-17
+8,98,Summer Sale,Email,Clicked,Yes,2026-04-03
+9,71,Loyalty Rewards,Social Media,Clicked,No,2025-09-27
+10,21,Flash Sale,Social Media,Clicked,No,2025-09-02
+11,11,Email Promo,SMS,Clicked,Yes,2026-04-02
+12,66,Email Promo,Email,Ignored,No,2025-11-27
+13,17,Email Promo,Social Media,Opened,No,2025-12-26
+14,67,Flash Sale,SMS,Opened,No,2026-04-03
+15,38,Holiday Offer,SMS,Ignored,No,2026-03-03
+16,31,Loyalty Rewards,SMS,Opened,No,2025-07-06
+17,41,Holiday Offer,Social Media,Clicked,No,2026-02-17
+18,68,Loyalty Rewards,Social Media,Opened,No,2026-01-03
+19,83,Summer Sale,SMS,Clicked,Yes,2025-12-03
+20,39,Holiday Offer,SMS,Opened,No,2025-09-01
+21,74,Loyalty Rewards,Email,Clicked,No,2026-05-07
+22,33,Summer Sale,SMS,Clicked,No,2025-07-18
+23,36,Loyalty Rewards,SMS,Opened,No,2025-10-28
+24,47,Holiday Offer,Email,Opened,No,2025-08-06
+25,32,Holiday Offer,SMS,Clicked,Yes,2025-06-06
+26,30,Email Promo,Social Media,Clicked,Yes,2026-04-21
+27,14,Email Promo,SMS,Ignored,No,2026-01-26
+28,27,Holiday Offer,Social Media,Ignored,No,2025-05-26
+29,55,Summer Sale,Email,Opened,No,2026-03-23
+30,64,Loyalty Rewards,Email,Clicked,Yes,2025-08-20
+31,65,Summer Sale,SMS,Clicked,No,2025-08-13
+32,92,Email Promo,Email,Opened,No,2025-10-20
+33,88,Summer Sale,Social Media,Ignored,No,2025-11-17
+34,77,Email Promo,Social Media,Clicked,Yes,2025-12-06
+35,16,Loyalty Rewards,SMS,Ignored,No,2025-11-03
+36,4,Flash Sale,Social Media,Ignored,No,2025-12-02
+37,12,Loyalty Rewards,SMS,Opened,No,2025-10-15
+38,88,Holiday Offer,SMS,Ignored,No,2026-01-25
+39,20,Summer Sale,SMS,Opened,No,2025-11-23
+40,16,Flash Sale,Social Media,Ignored,No,2025-08-31
+41,5,Loyalty Rewards,Email,Opened,No,2026-01-26
+42,36,Email Promo,Social Media,Ignored,No,2025-12-25
+43,81,Email Promo,Social Media,Clicked,Yes,2026-03-05
+44,89,Email Promo,SMS,Clicked,No,2026-03-24
+45,21,Loyalty Rewards,Social Media,Ignored,No,2025-06-02
+46,7,Loyalty Rewards,SMS,Ignored,No,2025-12-02
+47,64,Email Promo,SMS,Opened,No,2026-01-28
+48,23,Summer Sale,Social Media,Opened,No,2025-11-14
+49,67,Summer Sale,Email,Clicked,No,2025-08-10
+50,74,Loyalty Rewards,SMS,Clicked,Yes,2025-09-20
+51,62,Loyalty Rewards,Email,Ignored,No,2025-12-25
+52,73,Summer Sale,SMS,Ignored,No,2025-10-30
+53,38,Email Promo,Social Media,Opened,No,2026-02-24
+54,86,Flash Sale,Email,Clicked,No,2025-05-11
+55,5,Loyalty Rewards,SMS,Opened,No,2025-12-15
+56,72,Holiday Offer,Social Media,Clicked,Yes,2026-01-21
+57,59,Email Promo,Email,Opened,No,2025-12-11
+58,5,Summer Sale,SMS,Ignored,No,2025-09-02
+59,39,Loyalty Rewards,Email,Clicked,Yes,2025-09-11
+60,68,Loyalty Rewards,SMS,Opened,No,2025-06-14
+61,62,Loyalty Rewards,Email,Clicked,No,2025-05-14
+62,23,Email Promo,Social Media,Clicked,Yes,2025-07-04
+63,75,Email Promo,SMS,Ignored,No,2025-09-19
+64,88,Loyalty Rewards,Email,Ignored,No,2025-12-29
+65,79,Email Promo,Social Media,Opened,No,2026-03-31
+66,83,Holiday Offer,Social Media,Opened,No,2025-09-15
+67,30,Email Promo,Social Media,Clicked,Yes,2025-11-15
+68,67,Loyalty Rewards,Social Media,Clicked,Yes,2025-05-13
+69,8,Summer Sale,SMS,Opened,No,2026-04-29
+70,43,Email Promo,SMS,Ignored,No,2025-09-29
+71,27,Email Promo,SMS,Opened,No,2025-12-23
+72,28,Summer Sale,Social Media,Ignored,No,2026-01-11
+73,91,Summer Sale,Social Media,Ignored,No,2025-11-09
+74,30,Email Promo,SMS,Clicked,Yes,2026-03-11
+75,63,Loyalty Rewards,SMS,Opened,No,2025-10-21
+76,30,Email Promo,Email,Ignored,No,2025-07-28
+77,3,Flash Sale,Social Media,Opened,No,2026-04-10
+78,78,Summer Sale,Social Media,Clicked,Yes,2025-08-13
+79,89,Loyalty Rewards,Email,Opened,No,2025-07-18
+80,58,Loyalty Rewards,Social Media,Ignored,No,2025-09-29
+81,71,Summer Sale,Email,Ignored,No,2026-04-17
+82,26,Summer Sale,Email,Ignored,No,2025-10-22
+83,65,Email Promo,SMS,Ignored,No,2025-11-27
+84,20,Holiday Offer,SMS,Opened,No,2026-04-13
+85,5,Flash Sale,Social Media,Clicked,No,2026-01-20
+86,37,Loyalty Rewards,SMS,Clicked,No,2025-10-07
+87,2,Email Promo,SMS,Clicked,Yes,2026-01-11
+88,20,Holiday Offer,SMS,Ignored,No,2025-09-04
+89,86,Loyalty Rewards,Email,Clicked,Yes,2025-06-10
+90,11,Loyalty Rewards,Social Media,Clicked,No,2026-02-20
+91,36,Holiday Offer,Email,Clicked,No,2025-10-22
+92,65,Summer Sale,Social Media,Opened,No,2026-02-12
+93,56,Summer Sale,Social Media,Clicked,No,2026-03-17
+94,26,Email Promo,Email,Ignored,No,2025-07-10
+95,34,Holiday Offer,SMS,Clicked,Yes,2026-03-28
+96,73,Loyalty Rewards,SMS,Ignored,No,2026-03-26
+97,78,Flash Sale,Email,Ignored,No,2026-01-03
+98,74,Loyalty Rewards,SMS,Opened,No,2025-09-21
+99,40,Holiday Offer,SMS,Ignored,No,2025-11-03
+100,34,Loyalty Rewards,Social Media,Clicked,No,2026-01-01
+101,15,Email Promo,SMS,Opened,No,2026-04-25
+102,34,Loyalty Rewards,SMS,Opened,No,2025-11-10
+103,23,Loyalty Rewards,Social Media,Ignored,No,2026-01-26
+104,55,Flash Sale,SMS,Clicked,No,2025-12-29
+105,44,Email Promo,SMS,Ignored,No,2026-02-13
+106,77,Email Promo,SMS,Opened,No,2026-02-27
+107,81,Loyalty Rewards,SMS,Clicked,No,2025-08-11
+108,52,Loyalty Rewards,Email,Opened,No,2026-05-07
+109,64,Email Promo,SMS,Ignored,No,2025-07-18
+110,92,Email Promo,Email,Opened,No,2025-07-17
+111,45,Loyalty Rewards,Email,Clicked,No,2026-01-09
+112,28,Loyalty Rewards,Social Media,Ignored,No,2025-11-14
+113,84,Email Promo,Email,Ignored,No,2025-06-20
+114,72,Summer Sale,Email,Clicked,No,2025-09-13
+115,40,Email Promo,Email,Opened,No,2025-08-19
+116,25,Holiday Offer,SMS,Ignored,No,2026-02-09
+117,32,Holiday Offer,Email,Opened,No,2026-01-16
+118,87,Email Promo,SMS,Clicked,Yes,2026-03-20
+119,1,Holiday Offer,SMS,Opened,No,2025-09-14
+120,84,Flash Sale,Email,Opened,No,2025-06-29
+121,58,Summer Sale,Email,Clicked,No,2025-11-04
+122,91,Loyalty Rewards,Email,Opened,No,2025-11-17
+123,34,Loyalty Rewards,SMS,Clicked,No,2026-04-05
+124,53,Flash Sale,SMS,Ignored,No,2025-07-25
+125,67,Summer Sale,SMS,Clicked,No,2025-06-11
+126,23,Email Promo,SMS,Opened,No,2026-04-17
+127,51,Loyalty Rewards,Social Media,Clicked,Yes,2025-07-22
+128,62,Email Promo,Email,Ignored,No,2026-04-25
+129,24,Holiday Offer,Email,Ignored,No,2025-07-11
+130,35,Summer Sale,Social Media,Clicked,Yes,2025-09-14
+131,12,Summer Sale,Social Media,Opened,No,2026-02-15
+132,96,Flash Sale,Social Media,Opened,No,2026-02-26
+133,81,Flash Sale,Email,Ignored,No,2025-09-17
+134,67,Holiday Offer,Social Media,Clicked,No,2026-04-26
+135,35,Loyalty Rewards,SMS,Clicked,Yes,2026-03-20
+136,35,Flash Sale,SMS,Opened,No,2025-07-22
+137,98,Loyalty Rewards,Social Media,Opened,No,2026-02-09
+138,39,Summer Sale,Social Media,Opened,No,2025-10-19
+139,67,Holiday Offer,Social Media,Ignored,No,2025-10-10
+140,94,Summer Sale,SMS,Clicked,Yes,2025-07-29
+141,99,Holiday Offer,Email,Opened,No,2025-09-19
+142,8,Summer Sale,Social Media,Ignored,No,2026-02-07
+143,65,Holiday Offer,Email,Opened,No,2025-12-28
+144,80,Flash Sale,Social Media,Opened,No,2026-01-11
+145,97,Loyalty Rewards,SMS,Opened,No,2026-02-04
+146,61,Loyalty Rewards,Email,Ignored,No,2025-08-24
+147,100,Email Promo,Email,Clicked,Yes,2026-03-07
+148,83,Holiday Offer,Email,Ignored,No,2025-05-28
+149,48,Loyalty Rewards,SMS,Clicked,Yes,2026-01-08
+150,100,Loyalty Rewards,Social Media,Ignored,No,2025-12-11
+151,31,Flash Sale,Email,Opened,No,2025-08-16
+152,50,Summer Sale,Email,Ignored,No,2025-06-29
+153,5,Summer Sale,Email,Opened,No,2026-01-26
+154,98,Loyalty Rewards,SMS,Opened,No,2025-08-29
+155,60,Summer Sale,SMS,Ignored,No,2025-09-07
+156,76,Summer Sale,SMS,Clicked,Yes,2025-12-16
+157,28,Holiday Offer,Social Media,Opened,No,2026-03-25
+158,5,Summer Sale,SMS,Opened,No,2026-04-14
+159,28,Loyalty Rewards,Social Media,Ignored,No,2025-07-11
+160,17,Summer Sale,Social Media,Opened,No,2026-04-21
+161,51,Email Promo,SMS,Opened,No,2025-09-24
+162,50,Holiday Offer,SMS,Clicked,No,2025-10-15
+163,30,Email Promo,Email,Opened,No,2025-12-14
+164,38,Holiday Offer,Email,Opened,No,2025-09-01
+165,40,Flash Sale,Email,Ignored,No,2026-03-12
+166,89,Email Promo,Email,Opened,No,2026-01-22
+167,56,Holiday Offer,Social Media,Ignored,No,2026-03-07
+168,41,Loyalty Rewards,Social Media,Ignored,No,2026-03-03
+169,26,Holiday Offer,Social Media,Clicked,No,2025-06-30
+170,24,Loyalty Rewards,SMS,Opened,No,2026-04-24
+171,13,Summer Sale,SMS,Opened,No,2025-10-11
+172,5,Flash Sale,SMS,Opened,No,2026-04-25
+173,13,Holiday Offer,Email,Clicked,No,2025-12-27
+174,50,Email Promo,Social Media,Opened,No,2025-10-24
+175,43,Email Promo,SMS,Ignored,No,2026-04-12
+176,85,Loyalty Rewards,SMS,Clicked,Yes,2025-11-05
+177,54,Summer Sale,Email,Ignored,No,2025-10-22
+178,67,Flash Sale,Social Media,Ignored,No,2026-04-28
+179,21,Flash Sale,Email,Opened,No,2025-11-27
+180,48,Summer Sale,Email,Opened,No,2026-01-26
+181,46,Holiday Offer,Email,Opened,No,2026-01-08
+182,27,Email Promo,SMS,Clicked,Yes,2025-12-31
+183,78,Email Promo,Social Media,Opened,No,2026-02-23
+184,47,Holiday Offer,Email,Clicked,No,2025-06-15
+185,28,Summer Sale,SMS,Ignored,No,2026-01-14
+186,30,Summer Sale,Email,Opened,No,2025-07-14
+187,87,Email Promo,Email,Opened,No,2025-07-18
+188,68,Holiday Offer,SMS,Clicked,No,2025-09-29
+189,80,Holiday Offer,SMS,Clicked,No,2026-02-18
+190,63,Flash Sale,SMS,Opened,No,2025-09-05
+191,81,Flash Sale,Social Media,Ignored,No,2026-03-16
+192,11,Flash Sale,Email,Opened,No,2025-06-06
+193,25,Loyalty Rewards,Email,Opened,No,2026-01-28
+194,4,Holiday Offer,SMS,Opened,No,2025-06-27
+195,70,Flash Sale,Social Media,Opened,No,2025-08-14
+196,22,Loyalty Rewards,Email,Ignored,No,2025-05-14
+197,80,Flash Sale,Social Media,Clicked,Yes,2025-10-15
+198,1,Flash Sale,Social Media,Clicked,Yes,2025-09-15
+199,72,Loyalty Rewards,Email,Clicked,Yes,2025-06-07
+200,72,Summer Sale,Social Media,Ignored,No,2026-03-23
+201,27,Holiday Offer,Email,Opened,No,2025-07-12
+202,86,Loyalty Rewards,SMS,Ignored,No,2025-11-14
+203,76,Flash Sale,SMS,Opened,No,2025-09-23
+204,91,Email Promo,Social Media,Ignored,No,2025-08-03
+205,72,Flash Sale,SMS,Opened,No,2025-08-21
+206,72,Holiday Offer,Email,Clicked,Yes,2025-09-14
+207,13,Flash Sale,Social Media,Opened,No,2026-02-18
+208,68,Email Promo,Social Media,Clicked,No,2025-11-25
+209,100,Flash Sale,Email,Opened,No,2026-05-06
+210,71,Loyalty Rewards,Email,Clicked,Yes,2025-10-27
+211,65,Loyalty Rewards,Email,Opened,No,2025-05-13
+212,49,Holiday Offer,Social Media,Ignored,No,2025-08-20
+213,89,Flash Sale,SMS,Opened,No,2026-04-14
+214,66,Flash Sale,Social Media,Opened,No,2026-04-09
+215,38,Email Promo,Email,Opened,No,2025-11-09
+216,83,Email Promo,Email,Opened,No,2025-11-25
+217,80,Email Promo,Social Media,Opened,No,2025-08-03
+218,44,Email Promo,Email,Opened,No,2026-02-15
+219,4,Email Promo,Email,Opened,No,2025-11-29
+220,5,Loyalty Rewards,Social Media,Clicked,Yes,2026-02-05
+221,69,Loyalty Rewards,Email,Opened,No,2026-02-22
+222,83,Holiday Offer,SMS,Clicked,No,2026-02-12
+223,75,Summer Sale,Social Media,Opened,No,2026-03-10
+224,59,Email Promo,SMS,Opened,No,2026-01-18
+225,2,Holiday Offer,Email,Opened,No,2025-11-10
+226,59,Loyalty Rewards,Email,Opened,No,2025-07-29
+227,20,Flash Sale,Email,Clicked,Yes,2025-07-30
+228,91,Flash Sale,Social Media,Opened,No,2025-09-12
+229,26,Holiday Offer,SMS,Clicked,No,2025-06-19
+230,5,Flash Sale,Social Media,Ignored,No,2025-12-24
+231,82,Email Promo,Email,Clicked,No,2025-11-09
+232,19,Flash Sale,Email,Ignored,No,2025-12-17
+233,80,Summer Sale,Social Media,Ignored,No,2025-12-07
+234,81,Loyalty Rewards,Social Media,Opened,No,2025-05-22
+235,62,Email Promo,Email,Clicked,No,2026-03-12
+236,81,Holiday Offer,Email,Clicked,No,2025-10-19
+237,68,Holiday Offer,SMS,Ignored,No,2025-07-07
+238,37,Holiday Offer,Email,Ignored,No,2025-06-07
+239,67,Summer Sale,SMS,Clicked,Yes,2025-10-13
+240,28,Holiday Offer,SMS,Opened,No,2025-09-06
+241,78,Flash Sale,SMS,Opened,No,2025-09-05
+242,21,Email Promo,Email,Opened,No,2025-05-12
+243,54,Summer Sale,SMS,Ignored,No,2025-11-09
+244,69,Email Promo,Social Media,Ignored,No,2025-07-18
+245,92,Loyalty Rewards,Email,Opened,No,2025-09-21
+246,31,Flash Sale,SMS,Opened,No,2026-03-13
+247,12,Loyalty Rewards,SMS,Clicked,Yes,2025-08-27
+248,15,Loyalty Rewards,Email,Ignored,No,2026-04-30
+249,58,Loyalty Rewards,SMS,Ignored,No,2025-11-19
+250,89,Holiday Offer,SMS,Opened,No,2026-02-10
+251,73,Loyalty Rewards,Email,Clicked,No,2025-06-29
+252,18,Summer Sale,Email,Clicked,No,2026-01-30
+253,69,Loyalty Rewards,Social Media,Clicked,No,2025-06-26
+254,59,Summer Sale,SMS,Opened,No,2026-02-12
+255,54,Flash Sale,Social Media,Clicked,Yes,2025-07-23
+256,21,Summer Sale,SMS,Clicked,No,2025-08-15
+257,58,Flash Sale,Email,Ignored,No,2026-03-23
+258,85,Loyalty Rewards,SMS,Ignored,No,2025-12-22
+259,37,Email Promo,SMS,Ignored,No,2025-08-11
+260,25,Holiday Offer,SMS,Opened,No,2025-06-08
+261,95,Summer Sale,SMS,Opened,No,2025-10-24
+262,26,Flash Sale,Social Media,Clicked,No,2025-11-01
+263,26,Flash Sale,Email,Clicked,Yes,2025-05-20
+264,4,Summer Sale,Email,Ignored,No,2026-01-23
+265,64,Summer Sale,SMS,Ignored,No,2026-02-04
+266,86,Flash Sale,Email,Clicked,No,2026-04-16
+267,34,Email Promo,SMS,Ignored,No,2025-05-09
+268,43,Email Promo,Social Media,Ignored,No,2025-07-02
+269,37,Email Promo,SMS,Ignored,No,2026-04-03
+270,44,Holiday Offer,SMS,Ignored,No,2025-10-13
+271,82,Loyalty Rewards,Email,Opened,No,2026-02-01
+272,94,Holiday Offer,SMS,Ignored,No,2025-11-15
+273,86,Summer Sale,Social Media,Opened,No,2026-03-14
+274,9,Summer Sale,Social Media,Ignored,No,2025-08-05
+275,9,Flash Sale,Email,Clicked,No,2026-01-03
+276,20,Holiday Offer,SMS,Ignored,No,2025-12-21
+277,9,Loyalty Rewards,SMS,Ignored,No,2025-12-20
+278,84,Holiday Offer,Social Media,Ignored,No,2025-07-04
+279,18,Holiday Offer,Email,Ignored,No,2026-01-09
+280,25,Email Promo,SMS,Ignored,No,2026-04-13
+281,10,Email Promo,Social Media,Ignored,No,2026-02-25
+282,51,Holiday Offer,Social Media,Opened,No,2026-01-04
+283,77,Holiday Offer,SMS,Opened,No,2026-01-15
+284,74,Holiday Offer,SMS,Clicked,Yes,2025-09-28
+285,86,Summer Sale,Social Media,Opened,No,2026-02-24
+286,2,Loyalty Rewards,Email,Clicked,No,2026-02-12
+287,31,Email Promo,Email,Opened,No,2025-11-13
+288,24,Loyalty Rewards,SMS,Opened,No,2025-12-27
+289,81,Summer Sale,SMS,Ignored,No,2025-11-15
+290,98,Summer Sale,Social Media,Clicked,Yes,2025-08-07
+291,69,Summer Sale,Email,Ignored,No,2025-10-18
+292,36,Holiday Offer,SMS,Ignored,No,2026-04-08
+293,54,Email Promo,Social Media,Opened,No,2025-08-18
+294,1,Loyalty Rewards,Email,Opened,No,2026-05-01
+295,7,Email Promo,Social Media,Opened,No,2026-01-19
+296,45,Flash Sale,Social Media,Ignored,No,2025-05-29
+297,77,Loyalty Rewards,Social Media,Opened,No,2025-07-24
+298,80,Email Promo,Email,Clicked,Yes,2026-02-24
+299,5,Loyalty Rewards,Social Media,Ignored,No,2025-10-20
+300,52,Email Promo,Social Media,Opened,No,2025-07-15
+301,21,Summer Sale,SMS,Ignored,No,2025-07-09
+302,20,Summer Sale,Email,Opened,No,2025-06-17
+303,45,Email Promo,Social Media,Clicked,No,2025-12-28
+304,31,Flash Sale,Email,Opened,No,2026-05-04
+305,55,Flash Sale,Social Media,Clicked,No,2025-08-31
+306,38,Holiday Offer,SMS,Ignored,No,2026-02-08
+307,59,Flash Sale,SMS,Opened,No,2025-10-17
+308,25,Holiday Offer,Email,Ignored,No,2026-01-30
+309,39,Summer Sale,Email,Opened,No,2025-08-21
+310,44,Flash Sale,SMS,Ignored,No,2025-05-20
+311,90,Email Promo,Email,Ignored,No,2026-04-16
+312,41,Summer Sale,Email,Clicked,Yes,2026-01-05
+313,53,Holiday Offer,SMS,Clicked,Yes,2026-02-19
+314,1,Email Promo,SMS,Opened,No,2026-04-27
+315,94,Summer Sale,SMS,Ignored,No,2026-04-22
+316,86,Email Promo,SMS,Clicked,Yes,2025-08-23
+317,80,Email Promo,Email,Ignored,No,2025-08-11
+318,4,Loyalty Rewards,Social Media,Opened,No,2025-08-29
+319,9,Flash Sale,Email,Ignored,No,2025-08-03
+320,83,Holiday Offer,Email,Ignored,No,2025-12-17
+321,6,Holiday Offer,Email,Opened,No,2025-10-11
+322,24,Email Promo,Email,Clicked,No,2026-02-17
+323,40,Holiday Offer,SMS,Opened,No,2026-05-08
+324,14,Summer Sale,Email,Opened,No,2025-10-07
+325,10,Summer Sale,Social Media,Opened,No,2026-01-01
+326,84,Email Promo,Social Media,Ignored,No,2026-04-09
+327,88,Flash Sale,Social Media,Opened,No,2025-08-16
+328,24,Summer Sale,Social Media,Clicked,Yes,2025-10-13
+329,6,Summer Sale,Social Media,Clicked,Yes,2026-04-07
+330,80,Summer Sale,SMS,Clicked,No,2026-04-18
+331,73,Email Promo,Social Media,Ignored,No,2026-05-07
+332,56,Email Promo,SMS,Opened,No,2025-05-13
+333,46,Email Promo,Email,Ignored,No,2025-06-15
+334,31,Email Promo,Social Media,Ignored,No,2025-09-09
+335,28,Holiday Offer,SMS,Opened,No,2025-12-06
+336,9,Flash Sale,Email,Clicked,Yes,2026-04-07
+337,36,Email Promo,SMS,Clicked,No,2026-04-18
+338,3,Holiday Offer,Social Media,Clicked,Yes,2025-06-27
+339,92,Loyalty Rewards,Email,Ignored,No,2026-04-23
+340,25,Flash Sale,Social Media,Ignored,No,2025-08-25
+341,91,Holiday Offer,SMS,Opened,No,2026-03-20
+342,27,Loyalty Rewards,SMS,Clicked,No,2025-06-15
+343,56,Flash Sale,Email,Ignored,No,2026-03-02
+344,89,Email Promo,SMS,Opened,No,2025-06-02
+345,38,Summer Sale,SMS,Opened,No,2025-05-08
+346,51,Loyalty Rewards,SMS,Ignored,No,2025-08-01
+347,26,Flash Sale,Social Media,Clicked,No,2025-09-14
+348,85,Flash Sale,Email,Ignored,No,2025-07-24
+349,52,Holiday Offer,Social Media,Opened,No,2026-03-30
+350,90,Email Promo,SMS,Opened,No,2025-09-18
+351,34,Email Promo,SMS,Opened,No,2025-09-20
+352,77,Holiday Offer,SMS,Opened,No,2025-06-03
+353,56,Summer Sale,SMS,Clicked,No,2025-10-29
+354,37,Flash Sale,SMS,Opened,No,2026-02-04
+355,69,Loyalty Rewards,Email,Clicked,Yes,2025-11-07
+356,100,Holiday Offer,Social Media,Opened,No,2025-12-22
+357,4,Summer Sale,Social Media,Ignored,No,2026-05-08
+358,91,Loyalty Rewards,SMS,Opened,No,2025-11-27
+359,75,Holiday Offer,SMS,Ignored,No,2026-03-16
+360,30,Summer Sale,Email,Clicked,Yes,2025-06-12
+361,3,Email Promo,SMS,Opened,No,2025-10-06
+362,45,Summer Sale,SMS,Opened,No,2025-07-07
+363,16,Summer Sale,Social Media,Clicked,Yes,2025-08-28
+364,64,Summer Sale,Social Media,Clicked,No,2025-05-11
+365,69,Holiday Offer,SMS,Ignored,No,2026-03-20
+366,56,Flash Sale,Email,Opened,No,2025-08-31
+367,94,Flash Sale,Social Media,Opened,No,2026-03-24
+368,5,Summer Sale,SMS,Opened,No,2025-07-26
+369,29,Summer Sale,Email,Ignored,No,2026-03-18
+370,84,Flash Sale,SMS,Clicked,No,2026-04-24
+371,89,Holiday Offer,Social Media,Clicked,Yes,2026-04-09
+372,60,Summer Sale,SMS,Opened,No,2025-11-22
+373,27,Loyalty Rewards,Email,Opened,No,2025-09-17
+374,36,Loyalty Rewards,SMS,Clicked,No,2026-02-22
+375,97,Email Promo,Email,Clicked,Yes,2026-04-23
+376,64,Holiday Offer,Email,Ignored,No,2026-04-02
+377,35,Email Promo,Email,Ignored,No,2026-03-11
+378,27,Loyalty Rewards,Social Media,Ignored,No,2025-09-16
+379,40,Email Promo,Social Media,Ignored,No,2025-07-02
+380,22,Holiday Offer,Social Media,Opened,No,2025-10-17
+381,93,Summer Sale,Email,Opened,No,2026-01-12
+382,85,Email Promo,Email,Clicked,Yes,2025-11-01
+383,82,Summer Sale,Email,Clicked,No,2025-07-02
+384,13,Holiday Offer,Social Media,Clicked,Yes,2025-06-28
+385,25,Loyalty Rewards,SMS,Ignored,No,2025-08-05
+386,3,Holiday Offer,Email,Ignored,No,2025-07-04
+387,41,Email Promo,Social Media,Opened,No,2025-06-28
+388,11,Loyalty Rewards,SMS,Ignored,No,2025-09-01
+389,84,Holiday Offer,Email,Clicked,No,2025-07-09
+390,7,Holiday Offer,Social Media,Opened,No,2025-12-08
+391,46,Flash Sale,Social Media,Opened,No,2025-06-17
+392,42,Summer Sale,Social Media,Opened,No,2026-01-25
+393,19,Email Promo,SMS,Ignored,No,2025-09-20
+394,70,Holiday Offer,SMS,Opened,No,2025-12-23
+395,50,Holiday Offer,SMS,Opened,No,2026-02-13
+396,76,Loyalty Rewards,Email,Clicked,No,2026-03-13
+397,95,Loyalty Rewards,Email,Ignored,No,2026-02-11
+398,27,Flash Sale,Email,Ignored,No,2025-09-16
+399,15,Loyalty Rewards,SMS,Opened,No,2026-01-05
+400,87,Flash Sale,Email,Clicked,Yes,2025-12-24
+401,53,Email Promo,Email,Ignored,No,2025-12-05
+402,82,Holiday Offer,Social Media,Clicked,No,2026-01-24
+403,30,Flash Sale,SMS,Ignored,No,2025-11-01
+404,24,Holiday Offer,SMS,Opened,No,2026-04-19
+405,58,Email Promo,Email,Ignored,No,2025-08-31
+406,8,Summer Sale,Social Media,Clicked,No,2025-07-07
+407,86,Holiday Offer,Email,Opened,No,2025-09-16
+408,19,Summer Sale,SMS,Clicked,No,2026-02-22
+409,78,Holiday Offer,SMS,Opened,No,2025-08-03
+410,54,Summer Sale,SMS,Ignored,No,2025-09-25
+411,48,Loyalty Rewards,SMS,Opened,No,2025-11-18
+412,2,Holiday Offer,SMS,Ignored,No,2026-02-06
+413,40,Email Promo,Social Media,Ignored,No,2025-10-04
+414,43,Summer Sale,Social Media,Clicked,Yes,2026-03-30
+415,77,Email Promo,Social Media,Clicked,Yes,2025-09-17
+416,65,Flash Sale,Email,Clicked,Yes,2026-04-30
+417,52,Summer Sale,Social Media,Ignored,No,2025-05-08
+418,31,Email Promo,SMS,Opened,No,2026-02-11
+419,96,Email Promo,Social Media,Opened,No,2025-09-24
+420,20,Email Promo,Email,Opened,No,2025-06-19
+421,31,Flash Sale,Email,Clicked,Yes,2026-01-11
+422,57,Summer Sale,Email,Ignored,No,2025-06-02
+423,63,Summer Sale,Email,Ignored,No,2026-02-13
+424,10,Flash Sale,Email,Ignored,No,2026-03-19
+425,38,Flash Sale,Email,Opened,No,2025-07-02
+426,19,Loyalty Rewards,Social Media,Opened,No,2025-12-28
+427,34,Summer Sale,SMS,Opened,No,2025-09-24
+428,9,Summer Sale,Email,Ignored,No,2025-11-27
+429,53,Flash Sale,SMS,Clicked,Yes,2025-12-05
+430,52,Loyalty Rewards,Social Media,Clicked,No,2025-08-27
+431,43,Summer Sale,Email,Ignored,No,2025-08-29
+432,84,Email Promo,Social Media,Clicked,No,2026-02-17
+433,25,Holiday Offer,Email,Opened,No,2025-09-03
+434,44,Email Promo,SMS,Ignored,No,2026-01-16
+435,70,Flash Sale,Social Media,Opened,No,2026-03-19
+436,27,Summer Sale,SMS,Ignored,No,2025-06-07
+437,86,Flash Sale,Email,Clicked,Yes,2025-10-04
+438,83,Summer Sale,Social Media,Clicked,Yes,2025-05-22
+439,24,Flash Sale,Social Media,Clicked,Yes,2025-08-01
+440,92,Flash Sale,SMS,Clicked,Yes,2026-04-25
+441,39,Holiday Offer,SMS,Ignored,No,2025-11-07
+442,56,Summer Sale,Social Media,Clicked,Yes,2026-04-15
+443,18,Flash Sale,Email,Opened,No,2026-03-07
+444,25,Loyalty Rewards,Email,Clicked,No,2025-08-07
+445,84,Holiday Offer,SMS,Ignored,No,2025-07-05
+446,62,Loyalty Rewards,Email,Opened,No,2025-08-07
+447,17,Holiday Offer,SMS,Opened,No,2025-12-24
+448,9,Email Promo,SMS,Clicked,No,2025-12-28
+449,91,Summer Sale,Social Media,Ignored,No,2025-11-24
+450,34,Summer Sale,Email,Ignored,No,2025-12-17
+451,6,Holiday Offer,SMS,Clicked,Yes,2025-05-10
+452,5,Holiday Offer,SMS,Clicked,Yes,2025-07-18
+453,5,Email Promo,SMS,Clicked,No,2025-08-17
+454,62,Summer Sale,Social Media,Ignored,No,2025-08-02
+455,21,Flash Sale,Social Media,Opened,No,2025-10-02
+456,25,Flash Sale,Social Media,Ignored,No,2025-10-02
+457,49,Flash Sale,Email,Ignored,No,2026-05-06
+458,35,Loyalty Rewards,SMS,Ignored,No,2025-08-03
+459,48,Email Promo,Email,Clicked,No,2025-10-21
+460,58,Holiday Offer,SMS,Ignored,No,2025-05-25
+461,4,Loyalty Rewards,SMS,Opened,No,2025-08-22
+462,86,Flash Sale,Email,Opened,No,2025-07-31
+463,42,Summer Sale,Email,Clicked,No,2025-07-11
+464,60,Summer Sale,SMS,Clicked,Yes,2025-05-30
+465,28,Holiday Offer,SMS,Ignored,No,2025-10-22
+466,20,Email Promo,Email,Clicked,No,2025-12-19
+467,36,Summer Sale,Social Media,Opened,No,2025-07-18
+468,53,Email Promo,SMS,Ignored,No,2025-06-29
+469,33,Email Promo,SMS,Opened,No,2025-07-28
+470,67,Loyalty Rewards,Social Media,Ignored,No,2025-12-10
+471,7,Loyalty Rewards,Social Media,Ignored,No,2026-03-22
+472,50,Email Promo,Email,Opened,No,2025-07-15
+473,59,Email Promo,Social Media,Opened,No,2025-08-08
+474,25,Holiday Offer,SMS,Ignored,No,2025-08-30
+475,9,Summer Sale,Social Media,Opened,No,2025-08-23
+476,38,Loyalty Rewards,Email,Clicked,No,2025-12-14
+477,80,Flash Sale,Social Media,Ignored,No,2025-06-24
+478,48,Summer Sale,SMS,Opened,No,2026-01-02
+479,68,Email Promo,Email,Opened,No,2025-11-02
+480,31,Email Promo,Email,Ignored,No,2025-12-19
+481,77,Loyalty Rewards,Social Media,Ignored,No,2025-07-07
+482,76,Summer Sale,SMS,Clicked,No,2025-09-08
+483,89,Summer Sale,Social Media,Opened,No,2026-04-15
+484,35,Summer Sale,Email,Opened,No,2025-09-12
+485,72,Email Promo,SMS,Ignored,No,2025-09-24
+486,4,Loyalty Rewards,Email,Opened,No,2025-12-07
+487,13,Holiday Offer,Email,Opened,No,2025-10-08
+488,98,Summer Sale,SMS,Clicked,No,2026-04-06
+489,56,Loyalty Rewards,Social Media,Clicked,Yes,2025-05-22
+490,71,Email Promo,Social Media,Ignored,No,2026-02-26
+491,80,Holiday Offer,SMS,Opened,No,2025-05-13
+492,98,Email Promo,Social Media,Ignored,No,2025-05-11
+493,61,Summer Sale,SMS,Ignored,No,2025-05-10
+494,40,Summer Sale,Email,Opened,No,2026-02-21
+495,48,Summer Sale,Social Media,Opened,No,2026-04-30
+496,12,Summer Sale,Email,Ignored,No,2025-08-09
+497,83,Email Promo,Social Media,Ignored,No,2025-12-22
+498,78,Loyalty Rewards,SMS,Opened,No,2025-11-12
+499,13,Holiday Offer,Email,Ignored,No,2025-09-08
+500,30,Summer Sale,Email,Clicked,No,2026-04-17
+501,5,Summer Sale,SMS,Clicked,Yes,2026-04-06
+502,63,Flash Sale,SMS,Clicked,No,2025-10-24
+503,1,Summer Sale,SMS,Clicked,Yes,2025-07-24
+504,3,Summer Sale,Social Media,Ignored,No,2025-11-05
+505,32,Flash Sale,SMS,Clicked,No,2025-11-29
+506,99,Holiday Offer,Email,Opened,No,2025-10-21
+507,12,Holiday Offer,Social Media,Opened,No,2026-03-18
+508,68,Flash Sale,SMS,Opened,No,2025-11-02
+509,73,Loyalty Rewards,SMS,Opened,No,2026-01-24
+510,52,Flash Sale,SMS,Opened,No,2026-02-24
+511,61,Email Promo,SMS,Clicked,No,2025-05-22
+512,78,Flash Sale,Email,Opened,No,2025-08-20
+513,45,Email Promo,SMS,Opened,No,2025-10-03
+514,26,Summer Sale,Email,Clicked,No,2026-05-01
+515,54,Flash Sale,Social Media,Ignored,No,2025-08-11
+516,38,Loyalty Rewards,Email,Opened,No,2026-04-08
+517,75,Loyalty Rewards,Social Media,Clicked,No,2025-10-03
+518,73,Loyalty Rewards,SMS,Ignored,No,2025-07-31
+519,51,Email Promo,Email,Ignored,No,2025-05-29
+520,3,Loyalty Rewards,Email,Clicked,No,2025-07-22
+521,12,Flash Sale,SMS,Opened,No,2025-12-03
+522,50,Holiday Offer,SMS,Ignored,No,2026-02-23
+523,82,Email Promo,Email,Clicked,No,2025-10-10
+524,16,Flash Sale,SMS,Ignored,No,2025-12-22
+525,45,Summer Sale,Social Media,Opened,No,2026-01-30
+526,68,Loyalty Rewards,Social Media,Opened,No,2025-07-05
+527,78,Loyalty Rewards,Email,Ignored,No,2026-03-02
+528,26,Summer Sale,SMS,Ignored,No,2025-10-07
+529,52,Flash Sale,Social Media,Clicked,Yes,2025-05-13
+530,38,Flash Sale,SMS,Ignored,No,2026-02-26
+531,83,Holiday Offer,SMS,Clicked,Yes,2026-02-18
+532,1,Holiday Offer,Social Media,Clicked,No,2025-07-15
+533,62,Loyalty Rewards,Email,Clicked,No,2026-01-29
+534,10,Loyalty Rewards,SMS,Opened,No,2025-07-11
+535,91,Flash Sale,SMS,Clicked,Yes,2025-07-08
+536,45,Email Promo,Email,Ignored,No,2025-06-17
+537,43,Summer Sale,SMS,Opened,No,2025-10-02
+538,5,Flash Sale,Social Media,Clicked,Yes,2025-09-09
+539,40,Flash Sale,Social Media,Clicked,No,2025-06-08
+540,4,Summer Sale,SMS,Opened,No,2025-07-07
+541,11,Flash Sale,Email,Opened,No,2025-10-07
+542,64,Email Promo,Social Media,Clicked,Yes,2025-08-17
+543,96,Email Promo,Email,Ignored,No,2026-03-30
+544,31,Summer Sale,Social Media,Ignored,No,2026-04-21
+545,3,Email Promo,Social Media,Opened,No,2025-10-06
+546,90,Flash Sale,Social Media,Ignored,No,2025-09-28
+547,65,Flash Sale,SMS,Clicked,No,2025-08-06
+548,13,Email Promo,Social Media,Clicked,Yes,2026-03-31
+549,27,Email Promo,Social Media,Ignored,No,2025-08-29
+550,71,Holiday Offer,SMS,Clicked,Yes,2025-05-15
+551,26,Loyalty Rewards,SMS,Ignored,No,2025-11-02
+552,34,Summer Sale,Email,Clicked,Yes,2026-02-08
+553,22,Holiday Offer,Email,Opened,No,2025-07-28
+554,85,Flash Sale,Email,Ignored,No,2026-02-05
+555,73,Email Promo,Email,Opened,No,2025-12-17
+556,21,Loyalty Rewards,Email,Clicked,Yes,2025-08-29
+557,32,Flash Sale,SMS,Opened,No,2025-06-11
+558,3,Loyalty Rewards,SMS,Clicked,No,2026-03-22
+559,82,Loyalty Rewards,Social Media,Opened,No,2025-05-12
+560,38,Summer Sale,Email,Opened,No,2026-03-25
+561,75,Summer Sale,Social Media,Ignored,No,2026-05-06
+562,76,Loyalty Rewards,Email,Ignored,No,2026-01-19
+563,3,Flash Sale,Social Media,Opened,No,2025-12-19
+564,24,Summer Sale,SMS,Ignored,No,2025-05-17
+565,21,Flash Sale,SMS,Opened,No,2025-11-23
+566,56,Holiday Offer,Email,Clicked,Yes,2025-08-14
+567,20,Loyalty Rewards,Email,Opened,No,2025-06-21
+568,79,Flash Sale,Email,Ignored,No,2026-04-24
+569,26,Flash Sale,SMS,Clicked,Yes,2026-02-04
+570,3,Flash Sale,SMS,Ignored,No,2025-09-18
+571,25,Summer Sale,Email,Ignored,No,2025-11-26
+572,34,Summer Sale,Email,Ignored,No,2025-09-11
+573,79,Flash Sale,Email,Opened,No,2025-06-21
+574,98,Loyalty Rewards,SMS,Ignored,No,2026-03-26
+575,78,Email Promo,SMS,Ignored,No,2025-12-31
+576,20,Summer Sale,SMS,Clicked,Yes,2026-03-16
+577,52,Loyalty Rewards,SMS,Opened,No,2025-07-12
+578,76,Holiday Offer,Social Media,Ignored,No,2026-03-23
+579,19,Loyalty Rewards,Social Media,Ignored,No,2026-01-15
+580,53,Email Promo,Email,Opened,No,2025-10-26
+581,12,Summer Sale,SMS,Ignored,No,2025-10-16
+582,73,Email Promo,Email,Ignored,No,2025-08-08
+583,83,Summer Sale,SMS,Clicked,Yes,2025-11-03
+584,90,Loyalty Rewards,Email,Opened,No,2025-10-16
+585,27,Holiday Offer,Social Media,Clicked,Yes,2026-02-22
+586,28,Flash Sale,Social Media,Opened,No,2025-12-31
+587,90,Summer Sale,Email,Clicked,No,2025-05-28
+588,90,Flash Sale,SMS,Opened,No,2025-12-17
+589,43,Summer Sale,Social Media,Opened,No,2025-10-30
+590,80,Holiday Offer,SMS,Opened,No,2025-09-23
+591,77,Summer Sale,Social Media,Opened,No,2025-09-26
+592,40,Loyalty Rewards,Social Media,Ignored,No,2025-10-31
+593,46,Flash Sale,Social Media,Opened,No,2025-08-05
+594,41,Flash Sale,Social Media,Opened,No,2025-12-30
+595,95,Holiday Offer,SMS,Opened,No,2025-11-15
+596,84,Flash Sale,SMS,Opened,No,2025-11-10
+597,15,Flash Sale,Social Media,Opened,No,2026-03-21
+598,33,Summer Sale,Email,Clicked,Yes,2025-07-10
+599,99,Loyalty Rewards,SMS,Opened,No,2025-05-25
+600,38,Email Promo,SMS,Ignored,No,2025-07-01

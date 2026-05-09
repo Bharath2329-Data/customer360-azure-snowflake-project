@@ -1,0 +1,401 @@
+ticket_id,customer_id,issue_type,priority,status,created_date,resolved_date
+1,22,Delivery Delay,High,Closed,2026-04-21,2026-04-25
+2,8,Refund Request,High,In Progress,2025-07-11,2025-07-23
+3,4,Payment Issue,Low,Open,2025-11-20,2025-12-02
+4,19,Login Problem,High,Closed,2026-02-18,2026-03-04
+5,16,Delivery Delay,Medium,In Progress,2025-08-04,2025-08-14
+6,45,Delivery Delay,High,Open,2025-09-21,2025-09-26
+7,28,Product Defect,High,Closed,2025-10-27,2025-11-07
+8,7,Product Defect,High,Open,2026-02-15,2026-02-24
+9,80,Payment Issue,High,Open,2026-01-31,2026-02-06
+10,24,Login Problem,Medium,In Progress,2026-03-19,2026-03-26
+11,75,Login Problem,Medium,In Progress,2025-08-22,2025-08-31
+12,20,Payment Issue,High,Closed,2025-06-02,2025-06-09
+13,28,Product Defect,Low,In Progress,2025-12-24,2026-01-02
+14,28,Delivery Delay,Low,Open,2025-11-06,2025-11-10
+15,96,Delivery Delay,High,Closed,2025-06-04,2025-06-07
+16,98,Product Defect,Low,Open,2025-05-20,2025-06-03
+17,73,Delivery Delay,Medium,Closed,2026-04-03,2026-04-17
+18,88,Delivery Delay,High,In Progress,2026-03-07,2026-03-10
+19,57,Product Defect,High,In Progress,2025-06-19,2025-06-30
+20,87,Login Problem,High,Open,2025-11-02,2025-11-08
+21,32,Payment Issue,Medium,Closed,2025-11-17,2025-11-30
+22,72,Payment Issue,Medium,Open,2026-05-05,2026-05-19
+23,73,Delivery Delay,Low,Closed,2025-06-08,2025-06-23
+24,92,Product Defect,Low,Closed,2025-09-09,2025-09-22
+25,58,Delivery Delay,Medium,In Progress,2025-12-12,2025-12-22
+26,59,Payment Issue,High,In Progress,2025-10-03,2025-10-12
+27,40,Payment Issue,Medium,Closed,2026-04-09,2026-04-24
+28,4,Login Problem,Medium,Closed,2025-05-14,2025-05-16
+29,72,Delivery Delay,Low,Closed,2025-11-22,2025-11-26
+30,43,Login Problem,High,In Progress,2025-09-24,2025-09-25
+31,79,Delivery Delay,High,In Progress,2025-11-11,2025-11-21
+32,17,Payment Issue,Low,Closed,2025-11-30,2025-12-06
+33,20,Refund Request,Medium,Closed,2026-04-14,2026-04-17
+34,87,Payment Issue,Low,In Progress,2026-01-23,2026-02-05
+35,82,Delivery Delay,Low,Closed,2025-11-10,2025-11-12
+36,72,Refund Request,High,Open,2026-01-19,2026-01-23
+37,40,Login Problem,High,Closed,2026-05-07,2026-05-16
+38,75,Login Problem,Medium,In Progress,2025-12-25,2026-01-05
+39,63,Product Defect,Medium,In Progress,2025-06-01,2025-06-07
+40,45,Login Problem,Medium,In Progress,2025-09-30,2025-10-08
+41,63,Refund Request,High,Open,2026-03-20,2026-03-31
+42,5,Refund Request,Low,Closed,2025-08-04,2025-08-12
+43,68,Login Problem,Low,Open,2026-05-01,2026-05-16
+44,71,Product Defect,Low,In Progress,2025-08-12,2025-08-17
+45,41,Login Problem,Low,Open,2026-03-28,2026-04-07
+46,61,Payment Issue,High,In Progress,2026-02-17,2026-02-18
+47,1,Product Defect,Medium,Closed,2025-06-23,2025-06-25
+48,84,Refund Request,High,Closed,2025-10-30,2025-11-12
+49,40,Login Problem,Low,Open,2026-04-01,2026-04-08
+50,32,Login Problem,Medium,In Progress,2025-10-12,2025-10-16
+51,30,Delivery Delay,High,Closed,2025-11-30,2025-12-02
+52,27,Login Problem,High,In Progress,2025-09-09,2025-09-16
+53,15,Product Defect,Low,Closed,2025-05-20,2025-05-31
+54,67,Refund Request,High,In Progress,2025-09-03,2025-09-18
+55,4,Delivery Delay,Low,Open,2025-05-28,2025-06-12
+56,55,Login Problem,Medium,Closed,2025-07-27,2025-08-08
+57,52,Refund Request,Medium,Open,2025-06-17,2025-06-22
+58,93,Login Problem,High,Open,2026-02-03,2026-02-14
+59,98,Payment Issue,High,Closed,2025-10-20,2025-11-04
+60,82,Product Defect,Medium,Open,2026-05-02,2026-05-16
+61,84,Product Defect,Medium,In Progress,2025-05-30,2025-06-13
+62,84,Delivery Delay,Medium,Closed,2025-11-26,2025-12-10
+63,68,Product Defect,Medium,In Progress,2025-07-31,2025-08-02
+64,3,Login Problem,High,Open,2025-05-14,2025-05-24
+65,20,Payment Issue,Medium,Closed,2025-06-20,2025-06-27
+66,56,Payment Issue,High,Open,2026-03-18,2026-03-19
+67,81,Product Defect,Low,Open,2025-12-05,2025-12-18
+68,80,Delivery Delay,High,Open,2026-04-25,2026-05-10
+69,48,Refund Request,Low,Open,2025-09-21,2025-10-03
+70,69,Product Defect,Medium,In Progress,2026-04-13,2026-04-16
+71,85,Payment Issue,High,Closed,2025-09-29,2025-09-30
+72,38,Delivery Delay,High,In Progress,2026-02-10,2026-02-22
+73,85,Login Problem,Low,In Progress,2025-05-09,2025-05-21
+74,34,Refund Request,Medium,Open,2026-03-17,2026-03-20
+75,48,Product Defect,Medium,In Progress,2026-03-25,2026-03-31
+76,36,Refund Request,Low,Closed,2025-12-21,2025-12-25
+77,1,Refund Request,Low,In Progress,2026-02-28,2026-03-08
+78,33,Delivery Delay,Low,Closed,2025-11-07,2025-11-13
+79,82,Refund Request,Medium,Open,2025-12-22,2025-12-26
+80,13,Delivery Delay,High,In Progress,2026-03-23,2026-03-30
+81,47,Payment Issue,Low,Closed,2025-05-29,2025-06-07
+82,25,Product Defect,High,Closed,2025-06-22,2025-07-01
+83,100,Refund Request,Low,Closed,2026-03-06,2026-03-11
+84,34,Login Problem,Low,In Progress,2025-12-21,2025-12-23
+85,46,Refund Request,High,Closed,2025-12-31,2026-01-14
+86,21,Product Defect,Low,Open,2026-02-15,2026-02-28
+87,10,Product Defect,Medium,Open,2026-04-09,2026-04-20
+88,51,Login Problem,Medium,Closed,2025-12-28,2026-01-08
+89,15,Payment Issue,High,Closed,2026-04-04,2026-04-18
+90,67,Delivery Delay,Medium,Closed,2025-09-09,2025-09-19
+91,16,Product Defect,Low,Closed,2025-06-12,2025-06-24
+92,7,Login Problem,Medium,Closed,2026-04-02,2026-04-09
+93,37,Payment Issue,High,Open,2025-07-11,2025-07-14
+94,71,Login Problem,High,In Progress,2025-05-28,2025-06-02
+95,81,Payment Issue,Low,In Progress,2026-04-12,2026-04-21
+96,66,Payment Issue,Medium,Closed,2026-01-17,2026-01-25
+97,92,Refund Request,Medium,Open,2026-04-30,2026-05-08
+98,66,Product Defect,Medium,Open,2026-02-24,2026-03-01
+99,39,Refund Request,High,Closed,2025-07-31,2025-08-01
+100,69,Product Defect,Low,In Progress,2026-02-09,2026-02-16
+101,67,Login Problem,Medium,Open,2026-04-01,2026-04-11
+102,44,Product Defect,Low,Closed,2026-05-07,2026-05-14
+103,47,Delivery Delay,Medium,Closed,2026-05-03,2026-05-12
+104,45,Product Defect,Medium,Closed,2025-11-02,2025-11-14
+105,47,Payment Issue,Low,Open,2025-08-28,2025-09-09
+106,59,Product Defect,High,Open,2025-07-10,2025-07-13
+107,78,Product Defect,Medium,In Progress,2025-05-22,2025-05-23
+108,18,Delivery Delay,Medium,Open,2026-03-18,2026-03-29
+109,43,Payment Issue,Low,Closed,2025-08-20,2025-08-31
+110,30,Product Defect,Low,Open,2026-04-02,2026-04-17
+111,51,Login Problem,High,Open,2025-07-19,2025-07-25
+112,61,Payment Issue,High,In Progress,2025-11-19,2025-11-21
+113,4,Payment Issue,High,Open,2025-06-25,2025-06-27
+114,48,Refund Request,Medium,In Progress,2026-03-31,2026-04-02
+115,2,Product Defect,High,Open,2026-03-13,2026-03-18
+116,57,Refund Request,High,In Progress,2025-07-05,2025-07-07
+117,74,Delivery Delay,Low,Closed,2025-06-25,2025-06-28
+118,55,Product Defect,Medium,Open,2026-03-09,2026-03-10
+119,37,Delivery Delay,High,Open,2025-12-04,2025-12-15
+120,36,Delivery Delay,Low,Closed,2025-11-22,2025-11-27
+121,37,Payment Issue,Medium,Closed,2026-02-25,2026-03-05
+122,77,Login Problem,Low,Open,2026-01-23,2026-02-02
+123,51,Product Defect,Low,Closed,2025-07-13,2025-07-25
+124,55,Delivery Delay,Low,Closed,2026-01-19,2026-01-27
+125,94,Payment Issue,High,In Progress,2026-03-28,2026-03-29
+126,67,Payment Issue,High,In Progress,2025-09-15,2025-09-24
+127,2,Login Problem,Medium,Open,2026-01-08,2026-01-09
+128,54,Delivery Delay,Medium,Closed,2026-03-02,2026-03-09
+129,53,Login Problem,Low,Open,2025-07-02,2025-07-13
+130,34,Product Defect,Low,In Progress,2025-11-23,2025-12-01
+131,42,Payment Issue,Medium,Closed,2025-11-28,2025-12-01
+132,98,Product Defect,Low,Open,2025-06-15,2025-06-18
+133,1,Product Defect,Low,Open,2026-04-12,2026-04-24
+134,53,Login Problem,Low,Open,2025-06-18,2025-06-29
+135,54,Refund Request,Low,In Progress,2026-02-18,2026-03-04
+136,44,Refund Request,Low,Open,2025-05-11,2025-05-24
+137,50,Delivery Delay,High,Closed,2025-10-02,2025-10-06
+138,71,Login Problem,Medium,Open,2026-01-03,2026-01-16
+139,40,Product Defect,Medium,Open,2025-07-06,2025-07-16
+140,100,Delivery Delay,High,Closed,2025-11-03,2025-11-08
+141,89,Login Problem,Low,Closed,2026-03-09,2026-03-19
+142,79,Product Defect,High,Closed,2026-02-04,2026-02-18
+143,29,Login Problem,High,Closed,2026-03-20,2026-04-02
+144,69,Login Problem,High,Closed,2025-10-08,2025-10-17
+145,38,Product Defect,Medium,Closed,2025-06-12,2025-06-21
+146,68,Payment Issue,Medium,In Progress,2026-01-22,2026-02-05
+147,60,Product Defect,Low,Closed,2026-02-19,2026-03-04
+148,64,Login Problem,Low,Open,2026-03-13,2026-03-17
+149,82,Login Problem,Medium,Closed,2026-03-03,2026-03-18
+150,18,Refund Request,High,Open,2026-04-21,2026-04-26
+151,8,Login Problem,Medium,Open,2025-10-30,2025-11-12
+152,56,Refund Request,Medium,Closed,2025-10-22,2025-10-31
+153,95,Delivery Delay,Low,Open,2026-04-27,2026-05-07
+154,48,Payment Issue,High,Closed,2025-06-01,2025-06-04
+155,7,Refund Request,Low,Closed,2026-01-13,2026-01-28
+156,81,Product Defect,Low,Open,2025-11-17,2025-11-25
+157,28,Delivery Delay,High,In Progress,2025-08-08,2025-08-23
+158,15,Refund Request,Low,In Progress,2025-12-18,2026-01-02
+159,73,Product Defect,Low,Open,2026-01-28,2026-02-04
+160,87,Product Defect,Medium,Open,2025-07-11,2025-07-12
+161,83,Delivery Delay,High,In Progress,2025-06-10,2025-06-12
+162,23,Login Problem,Low,Open,2025-12-04,2025-12-15
+163,15,Refund Request,High,Open,2025-08-20,2025-08-25
+164,96,Refund Request,Low,In Progress,2025-05-26,2025-06-08
+165,31,Delivery Delay,Low,Closed,2025-05-23,2025-06-01
+166,12,Refund Request,Low,In Progress,2025-06-23,2025-06-30
+167,32,Refund Request,High,Closed,2025-06-23,2025-07-08
+168,69,Refund Request,Medium,Closed,2025-09-30,2025-10-04
+169,73,Refund Request,Medium,Open,2025-10-13,2025-10-26
+170,67,Product Defect,Low,In Progress,2025-09-27,2025-10-07
+171,81,Refund Request,High,Open,2025-11-06,2025-11-07
+172,29,Payment Issue,Low,In Progress,2026-02-21,2026-03-01
+173,13,Payment Issue,Medium,Closed,2026-03-05,2026-03-16
+174,60,Refund Request,High,Closed,2026-04-16,2026-04-20
+175,16,Refund Request,Low,Closed,2025-11-20,2025-11-24
+176,79,Delivery Delay,High,Open,2025-07-20,2025-08-04
+177,82,Product Defect,Medium,In Progress,2025-12-15,2025-12-16
+178,56,Login Problem,Medium,Closed,2026-03-12,2026-03-18
+179,55,Payment Issue,Medium,Closed,2025-05-08,2025-05-10
+180,94,Login Problem,Low,Open,2025-11-10,2025-11-11
+181,18,Refund Request,Medium,In Progress,2025-07-06,2025-07-17
+182,18,Login Problem,Low,Closed,2026-03-04,2026-03-09
+183,40,Delivery Delay,Medium,Open,2025-09-03,2025-09-09
+184,31,Payment Issue,Medium,Open,2025-07-12,2025-07-18
+185,99,Login Problem,Low,Open,2025-08-23,2025-08-29
+186,96,Refund Request,High,In Progress,2025-11-23,2025-11-26
+187,82,Product Defect,Medium,In Progress,2025-08-03,2025-08-11
+188,91,Product Defect,Low,Open,2025-06-07,2025-06-09
+189,95,Product Defect,Medium,In Progress,2025-11-05,2025-11-06
+190,20,Product Defect,Medium,Closed,2025-12-28,2026-01-11
+191,14,Login Problem,Low,Open,2025-11-21,2025-12-04
+192,54,Delivery Delay,High,Open,2026-02-28,2026-03-10
+193,44,Payment Issue,Low,Closed,2026-02-28,2026-03-01
+194,52,Delivery Delay,Medium,Closed,2025-06-05,2025-06-20
+195,50,Product Defect,High,Open,2025-05-28,2025-06-07
+196,9,Payment Issue,High,Closed,2025-09-11,2025-09-14
+197,51,Login Problem,Low,In Progress,2026-02-23,2026-03-10
+198,80,Refund Request,High,Closed,2026-02-20,2026-03-04
+199,34,Login Problem,Medium,In Progress,2026-01-30,2026-02-08
+200,11,Payment Issue,Medium,Closed,2026-04-11,2026-04-19
+201,74,Login Problem,Medium,In Progress,2025-06-08,2025-06-17
+202,90,Payment Issue,Medium,In Progress,2026-03-15,2026-03-21
+203,17,Payment Issue,Low,In Progress,2026-03-27,2026-03-31
+204,84,Product Defect,Low,Closed,2025-10-20,2025-10-21
+205,24,Payment Issue,Medium,Open,2025-06-11,2025-06-13
+206,73,Login Problem,Medium,In Progress,2025-05-15,2025-05-20
+207,41,Payment Issue,High,Open,2026-03-11,2026-03-13
+208,37,Login Problem,High,Open,2025-10-25,2025-11-08
+209,61,Login Problem,High,Closed,2025-10-13,2025-10-18
+210,32,Product Defect,High,Open,2026-04-09,2026-04-20
+211,53,Payment Issue,Low,Open,2026-03-27,2026-04-05
+212,19,Payment Issue,High,Closed,2025-08-08,2025-08-20
+213,82,Delivery Delay,Medium,Closed,2026-02-15,2026-02-18
+214,10,Refund Request,High,Closed,2025-12-05,2025-12-07
+215,66,Product Defect,High,Closed,2025-08-05,2025-08-07
+216,39,Login Problem,Low,Open,2026-03-21,2026-03-22
+217,23,Login Problem,High,Closed,2025-06-28,2025-07-02
+218,29,Refund Request,Low,Closed,2025-05-29,2025-05-31
+219,29,Refund Request,Medium,In Progress,2026-03-22,2026-04-02
+220,81,Refund Request,Low,Closed,2025-05-17,2025-05-20
+221,46,Login Problem,Low,Open,2026-03-22,2026-04-06
+222,11,Payment Issue,Low,Closed,2026-04-07,2026-04-22
+223,36,Login Problem,High,In Progress,2025-06-08,2025-06-14
+224,62,Login Problem,Medium,In Progress,2026-01-31,2026-02-14
+225,79,Delivery Delay,Low,In Progress,2025-09-29,2025-10-10
+226,28,Refund Request,High,In Progress,2026-04-23,2026-04-24
+227,54,Payment Issue,High,Open,2025-10-15,2025-10-18
+228,34,Login Problem,High,Closed,2026-05-01,2026-05-11
+229,11,Payment Issue,High,In Progress,2026-02-22,2026-02-28
+230,1,Payment Issue,Medium,Closed,2025-07-28,2025-08-09
+231,3,Product Defect,Low,Open,2026-02-06,2026-02-18
+232,79,Login Problem,Medium,Closed,2025-09-07,2025-09-21
+233,55,Login Problem,Medium,Closed,2025-10-04,2025-10-11
+234,3,Delivery Delay,High,Closed,2026-03-17,2026-03-18
+235,21,Refund Request,Medium,Open,2026-03-27,2026-04-06
+236,1,Payment Issue,High,In Progress,2025-10-18,2025-10-31
+237,61,Refund Request,Low,Closed,2025-12-26,2026-01-03
+238,89,Refund Request,Medium,Closed,2026-05-08,2026-05-21
+239,41,Delivery Delay,Low,Closed,2026-04-08,2026-04-22
+240,71,Login Problem,Low,Open,2025-12-29,2026-01-09
+241,96,Refund Request,Low,Closed,2025-12-16,2025-12-26
+242,80,Delivery Delay,Low,Open,2026-02-15,2026-02-17
+243,76,Payment Issue,Low,Open,2025-09-23,2025-10-07
+244,43,Payment Issue,High,Closed,2025-12-13,2025-12-26
+245,36,Product Defect,High,Closed,2026-03-28,2026-03-29
+246,28,Delivery Delay,Medium,Closed,2025-08-22,2025-09-04
+247,41,Product Defect,High,Closed,2025-06-04,2025-06-17
+248,9,Refund Request,Low,In Progress,2026-04-26,2026-04-30
+249,40,Delivery Delay,High,In Progress,2025-11-29,2025-11-30
+250,15,Delivery Delay,High,Closed,2026-02-23,2026-02-25
+251,28,Delivery Delay,High,Open,2025-11-26,2025-12-09
+252,98,Refund Request,Low,In Progress,2025-09-14,2025-09-21
+253,56,Login Problem,High,In Progress,2025-11-27,2025-11-28
+254,36,Refund Request,High,In Progress,2025-09-29,2025-10-14
+255,47,Delivery Delay,High,Open,2025-08-17,2025-08-21
+256,62,Payment Issue,Medium,Open,2026-04-10,2026-04-17
+257,99,Refund Request,Low,In Progress,2025-08-09,2025-08-12
+258,27,Login Problem,Medium,Closed,2025-11-19,2025-11-24
+259,89,Product Defect,Medium,In Progress,2025-10-21,2025-10-24
+260,42,Product Defect,Low,Open,2026-02-28,2026-03-15
+261,17,Refund Request,High,In Progress,2025-06-27,2025-07-04
+262,19,Refund Request,Low,In Progress,2026-04-10,2026-04-25
+263,53,Payment Issue,Low,Open,2025-07-13,2025-07-24
+264,4,Payment Issue,Low,Open,2026-03-27,2026-04-03
+265,44,Product Defect,High,Closed,2025-12-26,2025-12-31
+266,86,Delivery Delay,High,Closed,2025-09-06,2025-09-13
+267,43,Refund Request,High,Closed,2025-11-06,2025-11-14
+268,30,Login Problem,Medium,Closed,2026-01-20,2026-02-03
+269,54,Payment Issue,High,In Progress,2025-10-21,2025-10-26
+270,29,Refund Request,Medium,In Progress,2025-08-18,2025-08-26
+271,92,Delivery Delay,High,Open,2026-02-23,2026-03-01
+272,61,Payment Issue,High,Open,2026-04-28,2026-04-29
+273,38,Delivery Delay,Medium,In Progress,2025-09-16,2025-10-01
+274,5,Payment Issue,Medium,In Progress,2025-10-08,2025-10-17
+275,22,Product Defect,Medium,Open,2025-09-28,2025-10-11
+276,64,Delivery Delay,High,Closed,2025-10-08,2025-10-23
+277,52,Login Problem,Medium,Closed,2025-08-03,2025-08-04
+278,66,Product Defect,Medium,In Progress,2025-08-29,2025-09-07
+279,10,Login Problem,High,Open,2025-05-16,2025-05-17
+280,31,Payment Issue,Low,Open,2025-07-18,2025-07-28
+281,23,Refund Request,Medium,Open,2025-12-11,2025-12-23
+282,83,Product Defect,Medium,Open,2025-05-19,2025-05-30
+283,45,Login Problem,High,Closed,2026-03-04,2026-03-06
+284,63,Product Defect,High,Open,2026-03-23,2026-03-29
+285,42,Login Problem,Medium,Open,2025-06-24,2025-07-08
+286,5,Payment Issue,High,Open,2026-01-15,2026-01-19
+287,43,Delivery Delay,Medium,In Progress,2025-09-08,2025-09-20
+288,63,Payment Issue,High,Closed,2025-10-05,2025-10-10
+289,54,Payment Issue,High,In Progress,2025-10-26,2025-11-02
+290,80,Payment Issue,High,Closed,2025-05-08,2025-05-15
+291,80,Product Defect,High,Closed,2025-10-15,2025-10-25
+292,41,Payment Issue,High,Closed,2026-02-16,2026-02-22
+293,68,Login Problem,Low,Open,2025-10-21,2025-10-24
+294,79,Product Defect,Medium,In Progress,2025-10-03,2025-10-08
+295,76,Delivery Delay,Medium,Open,2025-08-26,2025-08-27
+296,41,Payment Issue,High,Open,2025-08-04,2025-08-17
+297,42,Product Defect,Low,Open,2026-04-21,2026-04-30
+298,86,Delivery Delay,High,Open,2025-11-17,2025-11-23
+299,3,Refund Request,Medium,In Progress,2026-03-21,2026-03-29
+300,31,Login Problem,Low,Open,2026-04-10,2026-04-16
+301,71,Login Problem,Low,Closed,2025-07-05,2025-07-08
+302,51,Delivery Delay,Medium,Closed,2025-12-04,2025-12-11
+303,14,Product Defect,High,Closed,2026-01-13,2026-01-25
+304,50,Product Defect,Low,Open,2026-01-30,2026-02-11
+305,92,Refund Request,High,Closed,2025-07-29,2025-08-11
+306,72,Refund Request,Medium,Closed,2025-07-13,2025-07-21
+307,69,Payment Issue,Medium,In Progress,2025-12-27,2025-12-28
+308,40,Login Problem,Low,Open,2025-09-19,2025-09-30
+309,58,Refund Request,Low,Open,2026-03-11,2026-03-13
+310,67,Payment Issue,Medium,In Progress,2025-08-03,2025-08-07
+311,1,Login Problem,Low,In Progress,2025-06-16,2025-06-29
+312,38,Product Defect,Low,Open,2026-04-09,2026-04-19
+313,68,Refund Request,Medium,Closed,2025-06-22,2025-06-23
+314,80,Payment Issue,High,Open,2025-05-28,2025-05-30
+315,58,Refund Request,Medium,Open,2025-10-03,2025-10-14
+316,59,Refund Request,Low,In Progress,2025-08-22,2025-08-27
+317,23,Payment Issue,Medium,Open,2025-07-30,2025-08-11
+318,41,Payment Issue,High,Open,2026-03-23,2026-03-30
+319,91,Product Defect,Low,Closed,2026-05-07,2026-05-09
+320,100,Payment Issue,Medium,Open,2026-02-18,2026-02-21
+321,13,Refund Request,Low,Closed,2025-07-02,2025-07-05
+322,42,Payment Issue,High,Open,2026-01-12,2026-01-27
+323,19,Product Defect,Medium,In Progress,2025-12-03,2025-12-12
+324,95,Payment Issue,High,In Progress,2025-12-30,2026-01-05
+325,68,Delivery Delay,High,In Progress,2025-11-28,2025-12-11
+326,98,Login Problem,Medium,Open,2026-01-30,2026-02-05
+327,85,Product Defect,Medium,In Progress,2025-12-09,2025-12-12
+328,37,Login Problem,High,Closed,2026-01-24,2026-02-02
+329,5,Login Problem,High,Closed,2025-05-25,2025-05-26
+330,23,Product Defect,Medium,Closed,2025-10-28,2025-11-08
+331,43,Product Defect,Medium,Closed,2026-04-03,2026-04-11
+332,38,Login Problem,Low,Open,2025-10-03,2025-10-16
+333,74,Payment Issue,Low,Closed,2026-02-18,2026-02-28
+334,29,Payment Issue,High,Closed,2025-06-01,2025-06-06
+335,79,Refund Request,High,Open,2025-05-26,2025-06-04
+336,50,Login Problem,Medium,In Progress,2025-08-15,2025-08-18
+337,75,Refund Request,High,Closed,2025-07-06,2025-07-21
+338,34,Product Defect,Medium,Closed,2025-05-17,2025-05-25
+339,27,Product Defect,Low,Closed,2026-03-10,2026-03-20
+340,83,Refund Request,High,Closed,2025-08-21,2025-08-31
+341,38,Delivery Delay,Medium,Closed,2025-09-30,2025-10-10
+342,75,Payment Issue,High,Open,2026-02-23,2026-02-25
+343,66,Payment Issue,Medium,Open,2025-07-05,2025-07-20
+344,50,Product Defect,High,Closed,2025-12-10,2025-12-22
+345,79,Product Defect,High,In Progress,2026-02-28,2026-03-10
+346,43,Payment Issue,Medium,In Progress,2026-04-27,2026-05-01
+347,65,Login Problem,Low,In Progress,2025-08-14,2025-08-20
+348,92,Refund Request,High,Closed,2025-12-31,2026-01-10
+349,2,Payment Issue,Low,In Progress,2025-07-31,2025-08-07
+350,58,Refund Request,High,In Progress,2026-03-06,2026-03-09
+351,65,Delivery Delay,High,In Progress,2025-11-13,2025-11-19
+352,69,Delivery Delay,High,Open,2025-07-10,2025-07-16
+353,8,Payment Issue,Medium,Open,2025-06-10,2025-06-25
+354,54,Payment Issue,High,Closed,2026-03-10,2026-03-20
+355,54,Delivery Delay,High,In Progress,2025-07-12,2025-07-15
+356,43,Refund Request,Medium,In Progress,2025-06-07,2025-06-14
+357,84,Product Defect,Low,Open,2025-11-07,2025-11-10
+358,16,Login Problem,Medium,Open,2026-04-27,2026-05-05
+359,37,Product Defect,Low,Closed,2025-07-16,2025-07-22
+360,89,Payment Issue,Medium,In Progress,2026-01-23,2026-02-06
+361,41,Payment Issue,High,Closed,2026-02-06,2026-02-12
+362,18,Payment Issue,Medium,Open,2026-02-17,2026-02-18
+363,32,Product Defect,Low,Closed,2025-08-08,2025-08-10
+364,66,Login Problem,High,In Progress,2025-06-09,2025-06-11
+365,75,Delivery Delay,High,Closed,2026-04-30,2026-05-15
+366,7,Delivery Delay,Medium,Closed,2025-10-09,2025-10-13
+367,98,Login Problem,High,Closed,2025-09-12,2025-09-13
+368,51,Delivery Delay,High,In Progress,2025-11-28,2025-12-11
+369,100,Product Defect,High,Open,2025-12-12,2025-12-19
+370,48,Refund Request,Low,In Progress,2025-12-23,2025-12-31
+371,57,Login Problem,Low,In Progress,2025-05-08,2025-05-23
+372,9,Login Problem,Low,Closed,2025-10-22,2025-10-28
+373,5,Login Problem,High,Closed,2026-03-24,2026-03-28
+374,77,Refund Request,High,In Progress,2025-05-27,2025-06-09
+375,6,Payment Issue,Low,Open,2026-03-25,2026-04-05
+376,12,Delivery Delay,Medium,In Progress,2026-02-22,2026-03-01
+377,3,Login Problem,Medium,In Progress,2026-03-13,2026-03-24
+378,20,Payment Issue,Medium,In Progress,2025-10-10,2025-10-21
+379,19,Delivery Delay,Medium,Closed,2025-07-20,2025-07-26
+380,27,Payment Issue,Medium,Open,2025-12-22,2026-01-02
+381,40,Product Defect,Low,In Progress,2025-05-16,2025-05-27
+382,97,Product Defect,Low,In Progress,2025-10-28,2025-11-04
+383,49,Refund Request,Medium,In Progress,2025-11-25,2025-12-05
+384,62,Payment Issue,Medium,Open,2025-06-26,2025-06-29
+385,49,Login Problem,Low,In Progress,2025-10-12,2025-10-19
+386,74,Product Defect,Low,In Progress,2025-12-14,2025-12-22
+387,97,Product Defect,High,In Progress,2025-06-12,2025-06-27
+388,2,Payment Issue,Low,Closed,2025-12-22,2025-12-29
+389,38,Product Defect,High,Open,2026-02-02,2026-02-04
+390,79,Login Problem,High,Open,2026-04-11,2026-04-12
+391,23,Refund Request,Low,In Progress,2025-05-14,2025-05-26
+392,91,Payment Issue,Medium,In Progress,2025-10-12,2025-10-24
+393,11,Delivery Delay,High,Closed,2026-02-09,2026-02-24
+394,71,Refund Request,Low,Closed,2026-03-05,2026-03-15
+395,35,Product Defect,High,In Progress,2026-01-24,2026-01-29
+396,14,Refund Request,Medium,Closed,2026-03-27,2026-04-05
+397,35,Login Problem,Medium,In Progress,2025-12-21,2025-12-25
+398,89,Login Problem,High,In Progress,2025-05-11,2025-05-20
+399,76,Product Defect,Medium,Open,2025-08-07,2025-08-17
+400,71,Refund Request,Low,Closed,2026-02-25,2026-02-26

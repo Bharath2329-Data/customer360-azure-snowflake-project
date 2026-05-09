@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,state,signup_date,customer_segment
+1,Michael,Underwood,johngardner@gmail.com,North Jaredtown,MD,2024-02-09,Premium
+2,Steven,Berry,bradshawamy@hotmail.com,Kylestad,VA,2025-05-16,Standard
+3,Todd,Mitchell,pattersonamber@gmail.com,Corybury,AZ,2024-03-14,Gold
+4,Rebecca,Guerrero,ronaldwilson@hotmail.com,East Terriburgh,KS,2025-08-04,Premium
+5,Jonathan,Lee,jonesmichael@gmail.com,Angelicafurt,MI,2026-03-27,Standard
+6,David,Velez,snyderleslie@hotmail.com,Coopermouth,SC,2024-04-02,Gold
+7,Linda,Wilson,morganlittle@yahoo.com,South Meganland,GA,2023-09-21,Premium
+8,Andrew,King,ltrujillo@gmail.com,East Kylebury,AL,2025-12-24,Standard
+9,Aaron,Evans,jameswilliams@smith.com,East Johnmouth,CT,2026-01-29,Gold
+10,Christopher,Petty,timothy77@rodriguez.com,North Rachel,IA,2024-08-11,Premium
+11,Brandon,Cruz,terrysanchez@hotmail.com,Petersonchester,IN,2025-05-24,Premium
+12,Julie,Webb,mark86@hotmail.com,South Cindyberg,NJ,2024-11-18,Gold
+13,Timothy,Pratt,hansonchristopher@hotmail.com,New Derrick,TN,2024-06-13,Premium
+14,Jonathan,Johnson,angelamckinney@hotmail.com,Stephenburgh,WI,2024-11-06,Silver
+15,Brian,Porter,wbaker@hunter.biz,Ferrellberg,RI,2025-08-07,Silver
+16,Peter,French,gmcdonald@yahoo.com,Roseshire,NE,2025-02-17,Silver
+17,John,Henry,rmoore@white.com,Garciamouth,VA,2024-05-12,Silver
+18,Joel,Hatfield,kevin76@allen-cunningham.com,Port Nicholas,NJ,2026-02-04,Silver
+19,Jason,Smith,andrew70@baker.net,West Claire,CO,2024-09-29,Standard
+20,Rebecca,Collins,mjones@hotmail.com,North Matthewbury,CT,2025-06-16,Premium
+21,Matthew,Butler,etaylor@yahoo.com,North Gregoryville,VT,2025-08-10,Gold
+22,Cody,Contreras,vvincent@yahoo.com,Wardside,NE,2025-04-19,Standard
+23,Dylan,Mccarthy,nunezbrian@williamson.com,New Curtisland,ND,2024-03-11,Standard
+24,Rebecca,Ryan,xsimmons@yahoo.com,North Wendyville,DC,2024-01-08,Silver
+25,Paul,Wilson,yharris@hotmail.com,West Joseburgh,MO,2024-08-03,Gold
+26,Laura,Harris,haleybanks@gmail.com,Calderonchester,OR,2024-05-06,Standard
+27,Jennifer,Jones,dhardy@cooper-ramirez.info,Lake Ian,ME,2025-10-09,Silver
+28,Joshua,Jenkins,sweeneyjoseph@hotmail.com,South Brandonport,AR,2025-04-12,Standard
+29,Jennifer,Tucker,joseph81@hotmail.com,North Joyceview,WI,2026-01-24,Silver
+30,Brandy,Simmons,brittany58@hotmail.com,Lake Pamelaburgh,TX,2023-09-04,Silver
+31,Jennifer,Bradley,samuel54@koch-perez.org,North Christopher,LA,2025-07-18,Gold
+32,Sean,Green,richardmartinez@davis.com,Martinmouth,ID,2026-04-02,Premium
+33,Adrienne,Acevedo,huntermiguel@ramirez.org,East Frederickchester,WA,2024-11-06,Silver
+34,Julie,Simmons,cmartinez@gmail.com,Lisaburgh,LA,2025-02-10,Premium
+35,Michael,Wong,leesarah@larson.com,North Eric,DC,2023-11-09,Standard
+36,Ashley,Villanueva,jamespratt@jennings.biz,Yoderview,IA,2024-10-28,Gold
+37,Lauren,Boyd,williamselizabeth@yahoo.com,East Lisa,IA,2024-07-30,Premium
+38,Ann,Mendoza,jonathanfrost@hotmail.com,East Maxtown,OR,2023-08-04,Gold
+39,Linda,Martin,laura30@gmail.com,New Nicholas,DE,2024-08-01,Gold
+40,Ernest,Wade,brandon69@house.com,Jacquelinetown,WA,2025-10-21,Gold
+41,Stephen,Francis,brownjohn@yahoo.com,Lake Timothymouth,OK,2024-08-19,Standard
+42,James,Singh,chase40@hotmail.com,Kimberlyville,MI,2025-10-04,Standard
+43,John,Gray,claudia59@rivera.org,Robertsburgh,KS,2024-08-20,Silver
+44,Michael,Garza,elizabethmurray@yahoo.com,Whitestad,WV,2023-06-01,Silver
+45,Katrina,Walsh,klawrence@yahoo.com,Brandontown,MI,2025-10-25,Premium
+46,Anthony,Williams,travis18@miller.info,Jakeberg,ID,2023-11-22,Gold
+47,Julie,Collins,william03@jackson-thompson.net,Boltonland,CA,2025-02-23,Silver
+48,Elizabeth,Lopez,mcmillanshawn@hotmail.com,Davismouth,CO,2025-02-06,Standard
+49,Kim,Rivera,cartercaroline@yahoo.com,West Benjamin,IL,2025-05-17,Gold
+50,Eric,Ellis,stevensondevin@gmail.com,Port Samanthafort,AL,2024-11-19,Premium
+51,Beth,Reeves,osavage@ingram.biz,Lake Joycemouth,MO,2024-06-24,Silver
+52,Jessica,Harrison,halldaniel@jones.com,Montoyafort,VA,2024-03-12,Standard
+53,Jason,Hodges,nclark@pacheco.org,East Michaelchester,WY,2024-01-16,Standard
+54,Kimberly,Ballard,wjenkins@hotmail.com,East Mary,GA,2025-07-03,Gold
+55,Mackenzie,Bailey,jamie45@hotmail.com,East Phillipborough,DC,2025-03-02,Standard
+56,Grace,Sanford,nicholsaaron@yahoo.com,North Rubenborough,ME,2025-01-13,Silver
+57,Timothy,Burke,lisaboyd@gmail.com,Cobbmouth,NM,2024-07-04,Gold
+58,Michael,Roach,creyes@smith.com,West Stephen,GA,2024-08-13,Premium
+59,Frances,Maldonado,xcollins@villarreal.org,Lucasview,CT,2025-10-13,Standard
+60,Ricky,Blanchard,rojasjohn@yahoo.com,Deanmouth,OH,2025-03-01,Gold
+61,Dana,Stafford,taylormercedes@hotmail.com,Morrisonmouth,WI,2023-06-14,Premium
+62,Amanda,Brown,jeremyberry@gmail.com,South Victoria,IL,2024-05-08,Gold
+63,Marie,Moss,taylor69@yahoo.com,New Jennifer,NY,2026-03-21,Silver
+64,Shane,Sharp,lancemiller@chapman.com,Martinezview,CT,2024-10-18,Standard
+65,Tony,Gutierrez,christensenjennifer@yahoo.com,Maldonadofurt,SC,2023-11-05,Standard
+66,Taylor,Gutierrez,ybeasley@gmail.com,Nataliemouth,VT,2026-02-25,Gold
+67,Nancy,Woodard,randy05@yahoo.com,Sharonville,MD,2024-11-03,Silver
+68,Jennifer,Lee,williefrederick@gmail.com,Eatonport,IN,2025-01-02,Gold
+69,Nicole,Andrews,cindychandler@miller.biz,Guzmantown,MA,2023-09-28,Premium
+70,Tanya,Fuller,rachelmiddleton@hotmail.com,South Kari,VT,2025-11-26,Standard
+71,Randall,Christian,brendan16@reid.com,Danielleburgh,HI,2024-11-01,Gold
+72,Lisa,Cole,fordcourtney@vazquez-pruitt.net,New Cherylshire,MN,2025-12-17,Silver
+73,Sara,Mann,william49@gmail.com,Richardhaven,OR,2024-05-18,Premium
+74,Michael,Martin,rogerskristen@brown.info,South Amanda,MD,2024-05-17,Premium
+75,Natalie,Miller,cavila@yahoo.com,South Joel,MN,2023-09-02,Silver
+76,Jesse,Wood,mariahsmith@yahoo.com,Mileschester,PA,2025-09-29,Silver
+77,Lisa,Miles,fwillis@gmail.com,East Karl,KY,2025-09-21,Standard
+78,Kyle,Jordan,john09@gmail.com,East Leslieshire,TX,2024-04-28,Premium
+79,Jaime,Andrews,amypace@gmail.com,Medinaton,KS,2023-08-05,Gold
+80,Thomas,Wallace,paul80@yahoo.com,New Deanna,IA,2023-08-20,Silver
+81,Laura,Wilson,uharvey@gmail.com,South David,FL,2025-08-08,Silver
+82,Michelle,Garcia,lewisbeth@hotmail.com,North Alexanderville,UT,2025-12-17,Premium
+83,John,Neal,xbowers@edwards-dickerson.com,North Daisymouth,VT,2023-12-06,Premium
+84,Mary,Jones,bharris@yahoo.com,North Matthewberg,MT,2024-08-04,Gold
+85,Jim,Frank,cisnerosspencer@kline-cameron.net,West Josephland,AZ,2023-09-11,Premium
+86,Jenna,Sparks,jasminepage@gmail.com,New Lauraborough,MA,2023-08-30,Standard
+87,Ryan,Baker,andrewreyes@wright-cruz.info,West Andreaton,NH,2023-12-27,Premium
+88,Mitchell,Sandoval,rebeccarowland@hotmail.com,Keithton,NY,2026-04-26,Silver
+89,Donald,Norris,sanchezrussell@yahoo.com,Michaelberg,VA,2025-08-19,Silver
+90,Peter,Wilkerson,hcastillo@hotmail.com,Port Aaron,NM,2023-09-05,Gold
+91,Keith,King,elizabethmata@yahoo.com,West Wayneburgh,AL,2023-12-22,Silver
+92,Nicholas,Hall,hayeschristine@gmail.com,New Dawn,OH,2024-02-17,Standard
+93,Kimberly,Lynch,albert97@gmail.com,Derekberg,WI,2025-09-26,Standard
+94,Laurie,Ruiz,bakerjames@wiley.info,Lake Jessicaside,AZ,2023-06-26,Standard
+95,Gregory,Nelson,reillyamy@gmail.com,New Julian,MT,2023-09-13,Premium
+96,Charles,Phillips,laurenyoung@gmail.com,West Jameston,UT,2025-07-19,Silver
+97,Lisa,Klein,anitawilson@graham-fleming.com,Moonmouth,ME,2024-04-13,Standard
+98,Cheryl,Brown,kimberlymyers@alvarado.info,East Williamland,MO,2024-06-09,Standard
+99,Jerry,Long,jeremy41@hotmail.com,South Tyler,GA,2024-04-22,Standard
+100,Jon,Thomas,nancy09@lewis.org,Nicholasberg,CT,2024-08-22,Silver
